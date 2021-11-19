@@ -22,4 +22,10 @@ We expect :
 - Re-usable code (we won't actually re-use your code, but @ ulysse, when we're coding feature we have to think about exporting it to other products if needed)
 - Clean and responsive UI
 
+Usefull libraries we use @ulysse :
+- swr
+- date-fns
+- formik
+- prettier
+
 If you have any extra ideas/features, you are welcome to add them.
