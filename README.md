@@ -25,7 +25,7 @@ We expect:
 - Re-usable code (we won't actually re-use your code, but @ ulysse, when we're building we have to think about exporting it to our products if needed, such as our backoffice or a mobile app)
 - Clean and responsive UI
 
-Useful libraries we use @ulysse :
+Useful libraries we use @ulysse:
 - swr
 - date-fns
 - formik
