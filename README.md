@@ -21,3 +21,5 @@ We expect :
 - Tailwind (config file provided in this repo)
 - Re-usable code (we won't actually re-use your code, but @ ulysse, when we're coding feature we have to think about exporting it to other products if needed)
 - Clean and responsive UI
+
+If you have any extra ideas/features, you are welcome to add them.
