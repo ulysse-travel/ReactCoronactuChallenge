@@ -12,6 +12,7 @@ It should have 2 simple props (string of iata country code) :
 
 We have an API endpoint providing multiple informations for trip :
 GET / https://ulysse-tooling-api.herokuapp.com/api/sherpa/country?origin=FR&destination=JP
+Procedures & restriction for origin/destination are in the `included` array of response.
 
 You decide on what information to show to users according to what you think may be important.
 
