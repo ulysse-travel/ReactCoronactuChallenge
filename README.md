@@ -15,7 +15,7 @@ We have an API endpoint providing multiple information for the Trip object:
 GET / https://ulysse-tooling-api.herokuapp.com/api/sherpa/country?origin=FR&destination=JP
 Procedures & restrictions for origin/destination are in the `included` array of the response.
 
-You will on what information to show customers according to what you think may be important.
+You will decide on what information to show customers according to what you think may be important.
 
 That's it!
 
